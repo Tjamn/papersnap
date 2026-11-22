@@ -8,5 +8,5 @@ PaperSnap is a lightweight browser extension for students and researchers that l
 - **PaperSnap Pro (One-Time License):** Includes Smart PDF Auto-Renaming (`Author_Year_Title.pdf`), unlimited reading list batch exports, and private on-device AI paper summaries.
 
 ## Contact & Support
-For support or licensing inquiries, contact: support@papersnap.app
+For support or licensing inquiries, contact: papersnap.support@gmail.com
 # papersnap
